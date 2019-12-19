@@ -9,7 +9,7 @@ git clone https://github.com/mrm8488/tfjs_wasm_demo.git
 ```
 2. Go to the folder with the cloned repo
 ```sh
-cd fjs_wasm_demo
+cd tfjs_wasm_demo
 ```
 3. Execute:
 ```sh
