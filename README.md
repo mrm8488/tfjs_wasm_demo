@@ -1,4 +1,4 @@
-# TFjs WASM Demo
+# TFjs WASM Demo :zap:
 I made a customized version of this repo: https://github.com/yashints/tjfs-wasm-demo)
 ## TensorFlow.js running on WebAssembly backend
 
@@ -16,3 +16,5 @@ cd tfjs_wasm_demo
 ```sh
 npm i && npm run watch
 ```
+
+PS: Some tfjs operations are not yet availiable on tf for wasm
